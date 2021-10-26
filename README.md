@@ -1,4 +1,4 @@
-# Durante pandemia, Governo federal bancou 252 refeições em churrascarias com o uso do cartão corporativo
+# Durante pandemia, Governo Federal bancou 252 refeições em churrascarias com o uso do cartão corporativo
 Este foi o código utilizado por trás reportagem ["Em meio à pandemia, governo bancou 252 refeições em churrascarias"](https://www.metropoles.com/brasil/em-meio-a-pandemia-governo-bancou-252-refeicoes-em-churrascarias), publicado no Portal Metrópoles.
 
 ## Metodologia

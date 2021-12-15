@@ -3,7 +3,9 @@ Este foi o código utilizado por trás reportagem ["Em meio à pandemia, governo
 
 ## Metodologia
 
-Esse análise de dados utilizou utilizando os dados abertos governamentais dos pagamentos realizados com o Cartão de Pagamento do Governo Federal (CPGF) desde março do ano passado e filtrou todos os estabelecimentos que possuiam a palavra "CHURRASC" no nome da empresa.
+Esse análise de dados calculou quantos gastos foram feitos utilizando o cartão corporativo governamental em churrascarias em todo o país durante a pandemia provocada pela Covid-29. 
+
+*Enquanto uns comem osso, outros comem em churrascarias de luxo*
 
 ### Neste trabalho foi usada as seguinte base de dados:
 ### - [Cartão de Pagamento do Governo Federal (CPGF)](http://www.portaldatransparencia.gov.br/download-de-dados/cpgf) 
